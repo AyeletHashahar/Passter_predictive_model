@@ -5,9 +5,9 @@ PASSTER is a predictive decision-support system designed to assist the Israeli P
 
 ## Team Members
 - **Nir Yekuel** – Computer Science Student
-- **Einav Cohen** – Data Engineering Student
+- **Ayelet Hashahar Cohen** – Data Engineering Student
 - **Orel Jaraian** – Data Engineering Student
-- **Eilat Hashachar Cohen** – Public Policy Student with a Bachelor's in Economics
+- **Einav Cohen** – Public Policy Student with a Bachelor's in Economics
 
 ## Problem Statement
 Currently, there is no pre-arrival registration for tourists visiting Israel. As a result:
